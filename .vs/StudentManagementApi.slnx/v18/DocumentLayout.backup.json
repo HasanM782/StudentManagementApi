@@ -1,0 +1,337 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementApi\\StudentManagementApi.csproj|c:\\users\\hasanvm\\source\\repos\\studentmanagementapi\\studentmanagementapi\\services\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementApi\\StudentManagementApi.csproj|solutionrelative:studentmanagementapi\\services\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementApi\\StudentManagementApi.csproj|c:\\users\\hasanvm\\source\\repos\\studentmanagementapi\\studentmanagementapi\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementApi\\StudentManagementApi.csproj|solutionrelative:studentmanagementapi\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementApi\\StudentManagementApi.csproj|c:\\users\\hasanvm\\source\\repos\\studentmanagementapi\\studentmanagementapi\\services\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementApi\\StudentManagementApi.csproj|solutionrelative:studentmanagementapi\\services\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementApi\\StudentManagementApi.csproj|c:\\users\\hasanvm\\source\\repos\\studentmanagementapi\\studentmanagementapi\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementApi\\StudentManagementApi.csproj|solutionrelative:studentmanagementapi\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementApi\\StudentManagementApi.csproj|c:\\users\\hasanvm\\source\\repos\\studentmanagementapi\\studentmanagementapi\\repositories\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementApi\\StudentManagementApi.csproj|solutionrelative:studentmanagementapi\\repositories\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementApi\\StudentManagementApi.csproj|c:\\users\\hasanvm\\source\\repos\\studentmanagementapi\\studentmanagementapi\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementApi\\StudentManagementApi.csproj|solutionrelative:studentmanagementapi\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementApi\\StudentManagementApi.csproj|c:\\users\\hasanvm\\source\\repos\\studentmanagementapi\\studentmanagementapi\\repositories\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementApi\\StudentManagementApi.csproj|solutionrelative:studentmanagementapi\\repositories\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementApi\\StudentManagementApi.csproj|c:\\users\\hasanvm\\source\\repos\\studentmanagementapi\\studentmanagementapi\\dtos\\group\\groupgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementApi\\StudentManagementApi.csproj|solutionrelative:studentmanagementapi\\dtos\\group\\groupgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementApi\\StudentManagementApi.csproj|c:\\users\\hasanvm\\source\\repos\\studentmanagementapi\\studentmanagementapi\\dtos\\group\\creategroupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementApi\\StudentManagementApi.csproj|solutionrelative:studentmanagementapi\\dtos\\group\\creategroupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementApi\\StudentManagementApi.csproj|c:\\users\\hasanvm\\source\\repos\\studentmanagementapi\\studentmanagementapi\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementApi\\StudentManagementApi.csproj|solutionrelative:studentmanagementapi\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementApi\\StudentManagementApi.csproj|c:\\users\\hasanvm\\source\\repos\\studentmanagementapi\\studentmanagementapi\\dtos\\group\\updategroupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementApi\\StudentManagementApi.csproj|solutionrelative:studentmanagementapi\\dtos\\group\\updategroupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementApi\\StudentManagementApi.csproj|c:\\users\\hasanvm\\source\\repos\\studentmanagementapi\\studentmanagementapi\\dtos\\student\\studentgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementApi\\StudentManagementApi.csproj|solutionrelative:studentmanagementapi\\dtos\\student\\studentgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementApi\\StudentManagementApi.csproj|c:\\users\\hasanvm\\source\\repos\\studentmanagementapi\\studentmanagementapi\\dtos\\student\\updatestudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementApi\\StudentManagementApi.csproj|solutionrelative:studentmanagementapi\\dtos\\student\\updatestudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementApi\\StudentManagementApi.csproj|c:\\users\\hasanvm\\source\\repos\\studentmanagementapi\\studentmanagementapi\\dtos\\student\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementApi\\StudentManagementApi.csproj|solutionrelative:studentmanagementapi\\dtos\\student\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementApi\\StudentManagementApi.csproj|c:\\users\\hasanvm\\source\\repos\\studentmanagementapi\\studentmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementApi\\StudentManagementApi.csproj|solutionrelative:studentmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementApi\\StudentManagementApi.csproj|c:\\users\\hasanvm\\source\\repos\\studentmanagementapi\\studentmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementApi\\StudentManagementApi.csproj|solutionrelative:studentmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementApi\\StudentManagementApi.csproj|c:\\users\\hasanvm\\source\\repos\\studentmanagementapi\\studentmanagementapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementApi\\StudentManagementApi.csproj|solutionrelative:studentmanagementapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementApi\\StudentManagementApi.csproj|c:\\users\\hasanvm\\source\\repos\\studentmanagementapi\\studentmanagementapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementApi\\StudentManagementApi.csproj|solutionrelative:studentmanagementapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementApi\\StudentManagementApi.csproj|c:\\users\\hasanvm\\source\\repos\\studentmanagementapi\\studentmanagementapi\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementApi\\StudentManagementApi.csproj|solutionrelative:studentmanagementapi\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GroupService.cs",
+              "DocumentMoniker": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Services\\GroupService.cs",
+              "RelativeDocumentMoniker": "StudentManagementApi\\Services\\GroupService.cs",
+              "ToolTip": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Services\\GroupService.cs",
+              "RelativeToolTip": "StudentManagementApi\\Services\\GroupService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAcwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T08:46:49.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGroupService.cs",
+              "DocumentMoniker": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Services\\IGroupService.cs",
+              "RelativeDocumentMoniker": "StudentManagementApi\\Services\\IGroupService.cs",
+              "ToolTip": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Services\\IGroupService.cs",
+              "RelativeToolTip": "StudentManagementApi\\Services\\IGroupService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T08:46:37.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentManagementApi\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Services\\StudentService.cs",
+              "RelativeToolTip": "StudentManagementApi\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T08:36:10.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "StudentManagementApi\\Services\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Services\\IStudentService.cs",
+              "RelativeToolTip": "StudentManagementApi\\Services\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T08:32:19.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GroupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Repositories\\GroupRepository.cs",
+              "RelativeDocumentMoniker": "StudentManagementApi\\Repositories\\GroupRepository.cs",
+              "ToolTip": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Repositories\\GroupRepository.cs",
+              "RelativeToolTip": "StudentManagementApi\\Repositories\\GroupRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T08:13:25.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IGroupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Repositories\\IGroupRepository.cs",
+              "RelativeDocumentMoniker": "StudentManagementApi\\Repositories\\IGroupRepository.cs",
+              "ToolTip": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Repositories\\IGroupRepository.cs",
+              "RelativeToolTip": "StudentManagementApi\\Repositories\\IGroupRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T08:12:12.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentManagementApi\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "StudentManagementApi\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T07:24:28.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Repositories\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentManagementApi\\Repositories\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Repositories\\IStudentRepository.cs",
+              "RelativeToolTip": "StudentManagementApi\\Repositories\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T07:18:23.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GroupGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\StudentManagementApi\\DTOs\\Group\\GroupGetDto.cs",
+              "RelativeDocumentMoniker": "StudentManagementApi\\DTOs\\Group\\GroupGetDto.cs",
+              "ToolTip": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\StudentManagementApi\\DTOs\\Group\\GroupGetDto.cs",
+              "RelativeToolTip": "StudentManagementApi\\DTOs\\Group\\GroupGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T07:14:02.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateGroupDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\StudentManagementApi\\DTOs\\Group\\UpdateGroupDto.cs",
+              "RelativeDocumentMoniker": "StudentManagementApi\\DTOs\\Group\\UpdateGroupDto.cs",
+              "ToolTip": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\StudentManagementApi\\DTOs\\Group\\UpdateGroupDto.cs",
+              "RelativeToolTip": "StudentManagementApi\\DTOs\\Group\\UpdateGroupDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T07:13:46.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateGroupDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\StudentManagementApi\\DTOs\\Group\\CreateGroupDto.cs",
+              "RelativeDocumentMoniker": "StudentManagementApi\\DTOs\\Group\\CreateGroupDto.cs",
+              "ToolTip": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\StudentManagementApi\\DTOs\\Group\\CreateGroupDto.cs",
+              "RelativeToolTip": "StudentManagementApi\\DTOs\\Group\\CreateGroupDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T07:13:34.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\StudentManagementApi\\DTOs\\Student\\StudentGetDto.cs",
+              "RelativeDocumentMoniker": "StudentManagementApi\\DTOs\\Student\\StudentGetDto.cs",
+              "ToolTip": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\StudentManagementApi\\DTOs\\Student\\StudentGetDto.cs",
+              "RelativeToolTip": "StudentManagementApi\\DTOs\\Student\\StudentGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T07:11:18.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateStudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\StudentManagementApi\\DTOs\\Student\\UpdateStudentDto.cs",
+              "RelativeDocumentMoniker": "StudentManagementApi\\DTOs\\Student\\UpdateStudentDto.cs",
+              "ToolTip": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\StudentManagementApi\\DTOs\\Student\\UpdateStudentDto.cs",
+              "RelativeToolTip": "StudentManagementApi\\DTOs\\Student\\UpdateStudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T07:11:02.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateStudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\StudentManagementApi\\DTOs\\Student\\CreateStudentDto.cs",
+              "RelativeDocumentMoniker": "StudentManagementApi\\DTOs\\Student\\CreateStudentDto.cs",
+              "ToolTip": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\StudentManagementApi\\DTOs\\Student\\CreateStudentDto.cs",
+              "RelativeToolTip": "StudentManagementApi\\DTOs\\Student\\CreateStudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T07:09:31.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagementApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Program.cs",
+              "RelativeToolTip": "StudentManagementApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T06:47:05.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\StudentManagementApi\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentManagementApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\StudentManagementApi\\appsettings.json",
+              "RelativeToolTip": "StudentManagementApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-10T06:46:33.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "StudentManagementApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "StudentManagementApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T06:45:31.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagementApi\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Models\\Student.cs",
+              "RelativeToolTip": "StudentManagementApi\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T06:29:05.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "StudentManagementApi\\Models\\Group.cs",
+              "ToolTip": "C:\\Users\\Hasanvm\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Models\\Group.cs",
+              "RelativeToolTip": "StudentManagementApi\\Models\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T06:27:26.121Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
